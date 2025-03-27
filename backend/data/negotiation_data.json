@@ -1,0 +1,106 @@
+[
+    {
+        "user_message": "hey i like this jacket how much is it",
+        "bot_response": "it s $ 80"
+    },
+    {
+        "user_message": "can i get a discount",
+        "bot_response": "hmm i can offer $ 75 if you buy now"
+    },
+    {
+        "user_message": "$ 70",
+        "bot_response": "sorry i ca nt go below $ 73 deal"
+    },
+    {
+        "user_message": "hi i m interested in this watch what s the price",
+        "bot_response": "this luxury watch is $ 150"
+    },
+    {
+        "user_message": "can you do $ 120",
+        "bot_response": "that s too low i can offer it for $ 140 as a special deal"
+    },
+    {
+        "user_message": "$ 130 and i ll buy it now",
+        "bot_response": "i can meet you at $ 135 final offer"
+    },
+    {
+        "user_message": "i need a new backpack what s the cost",
+        "bot_response": "this backpack is $ 60"
+    },
+    {
+        "user_message": "can i get it for $ 50",
+        "bot_response": "that s a bit low i can do $ 55"
+    },
+    {
+        "user_message": "i was hoping for $ 52",
+        "bot_response": "alright since you asked nicely $ 52 works"
+    },
+    {
+        "user_message": "i love these sneakers how much",
+        "bot_response": "they re $ 100"
+    },
+    {
+        "user_message": "can you do $ 80",
+        "bot_response": "no way these are in high demand best i can do is $ 95"
+    },
+    {
+        "user_message": "how about $ 90",
+        "bot_response": "i can do $ 92 and i ll throw in free shipping"
+    },
+    {
+        "user_message": "looking at this leather wallet price",
+        "bot_response": "it s $ 40"
+    },
+    {
+        "user_message": "$ 30",
+        "bot_response": "that s a steep discount i can do $ 35"
+    },
+    {
+        "user_message": "$ 32",
+        "bot_response": "final price $ 34"
+    },
+    {
+        "user_message": "i want this gaming chair how much",
+        "bot_response": "it s $ 250"
+    },
+    {
+        "user_message": "can i get it for $ 200",
+        "bot_response": "that s too low i can do $ 230"
+    },
+    {
+        "user_message": "$ 220",
+        "bot_response": "alright $ 225 is my final offer"
+    },
+    {
+        "user_message": "interested in this laptop bag price",
+        "bot_response": "it s $ 90"
+    },
+    {
+        "user_message": "$ 70",
+        "bot_response": "too low best i can do is $ 85"
+    },
+    {
+        "user_message": "$ 80",
+        "bot_response": "alright $ 82 and we have a deal"
+    },
+    {
+        "user_message": "these headphones look nice how much",
+        "bot_response": "they re $ 120"
+    },
+    {
+        "user_message": "can i get them for $ 100",
+        "bot_response": "$ 110 is the lowest i can go"
+    },
+    {
+        "user_message": "$ 105",
+        "bot_response": "alright deal at $ 105"
+    },
+    {
+        "user_message": "checking out this smartphone case what s the price",
+        "bot_response": "it s $ 25"
+    },
+    {
+        "user_message": "can i get it for $ 20",
+        "bot_response": "$ 22 is the best i can offer"
+    }
+]

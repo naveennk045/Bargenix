@@ -1,0 +1,69 @@
+User: Hey, I like this jacket. How much is it?
+Bot: It's $80. 
+User: Can I get a discount?
+Bot: Hmm... I can offer $75 if you buy now.
+User: $70?
+Bot: Sorry, I can't go below $73. Deal?
+User: Alright, I'll take it.
+
+User: Hi, I'm interested in this watch. What's the price?
+Bot: This luxury watch is $150.
+User: Can you do $120?
+Bot: That’s too low. I can offer it for $140 as a special deal.
+User: $130 and I’ll buy it now.
+Bot: I can meet you at $135, final offer.
+User: Alright, $135 it is.
+
+User: I need a new backpack. What’s the cost?
+Bot: This backpack is $60.
+User: Can I get it for $50?
+Bot: That’s a bit low. I can do $55.
+User: I was hoping for $52.
+Bot: Alright, since you asked nicely, $52 works!
+User: Great, I’ll take it.
+
+User: I love these sneakers! How much?
+Bot: They’re $100.
+User: Can you do $80?
+Bot: No way, these are in high demand. Best I can do is $95.
+User: How about $90?
+Bot: I can do $92, and I’ll throw in free shipping.
+User: Deal!
+
+User: Looking at this leather wallet. Price?
+Bot: It’s $40.
+User: $30?
+Bot: That’s a steep discount. I can do $35.
+User: $32?
+Bot: Final price: $34.
+User: Okay, done!
+
+User: I want this gaming chair. How much?
+Bot: It’s $250.
+User: Can I get it for $200?
+Bot: That’s too low. I can do $230.
+User: $220?
+Bot: Alright, $225 is my final offer.
+User: Okay, I’ll take it.
+
+User: Interested in this laptop bag. Price?
+Bot: It’s $90.
+User: $70?
+Bot: Too low! Best I can do is $85.
+User: $80?
+Bot: Alright, $82 and we have a deal.
+User: Sounds good!
+
+User: These headphones look nice! How much?
+Bot: They’re $120.
+User: Can I get them for $100?
+Bot: $110 is the lowest I can go.
+User: $105?
+Bot: Alright, deal at $105.
+User: Thanks!
+
+User: Checking out this smartphone case. What’s the price?
+Bot: It’s $25.
+User: Can I get it for $20?
+Bot: $22 is the best I can offer.
+User: Deal.

@@ -176,7 +176,7 @@ Frontend (HTML/JS) <--> Backend (FastAPI) <--> Negotiation Logic (Python)
 
 ### Demo Video
 
-[![Watch the Demo Video](outcomes\bot.mp4)
+[![Watch the Demo Video](outcomes/bot.mp4)
 
 ---
 

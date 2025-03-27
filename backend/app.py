@@ -26,7 +26,7 @@ class NegotiationRequest(BaseModel):
 class NegotiationResponse(BaseModel):
     response: str
     
-
+#  Endpoint to negotiate
 @app.post("/negotiate", response_model=NegotiationResponse)
 async def negotiate(request: NegotiationRequest):
     try:
@@ -35,9 +35,6 @@ async def negotiate(request: NegotiationRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.get("/health")
-async def health_check():
-    return {"status": "healthy"}
 
 if __name__ == "__main__":
     import uvicorn
